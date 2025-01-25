@@ -27,7 +27,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <Link to="/" className="text-2xl font-bold text-blue-500">
-              Video<span className="text-black dark:text-white">Gallery</span>
+              Video<span className="text-black dark:text-white">Streaming</span>
             </Link>
           </div>
 
