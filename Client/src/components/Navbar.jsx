@@ -24,14 +24,14 @@ const Navbar = () => {
     <nav className="bg-white dark:bg-black text-black dark:text-white shadow-lg">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
-          {/* Logo */}
+          {/* Logos */}
           <div className="flex-shrink-0 flex items-center">
             <Link to="/" className="text-2xl font-bold text-blue-500">
               Video<span className="text-black dark:text-white">Streaming</span>
             </Link>
           </div>
 
-          {/* Menu Links */}
+          {/* Menu Linkss */}
           {/* <div className="hidden md:flex space-x-4 items-center">
             <NavLink
               to="/"
